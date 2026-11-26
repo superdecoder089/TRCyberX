@@ -71,9 +71,10 @@ Your contribution graph is displayed automatically on your GitHub profile. This 
 
 ## 📫 Connect
 
-- GitHub: Add your profile link here.
-- LinkedIn: Add your LinkedIn profile link here.
-- Email: Add a public contact email here, if you want to share one.
+- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/t-r-singh-at-uttarakhand
+-1a2373227. 
+- Email: trevo2192@gmail.com
 
 ---
 
