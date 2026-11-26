@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/trcyberx-banner.png" alt="Cybersecurity themed banner" width="100%">
+<img src="./trcyberx-banner.png" alt="Cybersecurity Banner" width="100%">
 
 # 🛡️ Cybersecurity | Ethical Hacking | Bug Bounty
 
